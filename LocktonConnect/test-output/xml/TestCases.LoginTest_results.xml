@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LoginTest"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="150.275">
+  <properties />
+  
+  
+            <testcase name="loginToLockTon" time="150.275" classname="TestCases.LoginTest" />
+      
+</testsuite>

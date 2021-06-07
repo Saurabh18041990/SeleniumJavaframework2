@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35247" started-at="2020-07-14T13:10:10 IST" finished-at="2020-07-14T13:10:46 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35247" started-at="2020-07-14T13:10:10 IST" finished-at="2020-07-14T13:10:46 IST">
+      <class name="Listeners.ClientContactInfo">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Listeners.ClientContactInfo@327514f]" name="setUp" is-config="true" duration-ms="9033" started-at="2020-07-14T13:10:01 IST" finished-at="2020-07-14T13:10:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AddContact()[pri:0, instance:Listeners.ClientContactInfo@327514f]" name="AddContact" duration-ms="35191" started-at="2020-07-14T13:10:11 IST" finished-at="2020-07-14T13:10:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddContact -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Listeners.ClientContactInfo@327514f]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-07-14T13:10:46 IST" finished-at="2020-07-14T13:10:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Listeners.ClientContactInfo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
